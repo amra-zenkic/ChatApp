@@ -1,5 +1,5 @@
 # ChatApp
- This app is a simple chat application that allows users to send and receive messages in real-time. It provides a user-friendly interface where messages are displayed in a conversation-like format.
+ This app is a simple chat application that allows users to send and receive messages in real-time in local network. It provides a user-friendly interface where messages are displayed in a conversation-like format.
 When a user opens the app, they are presented with a chat interface. The chat interface consists of a message container, where all the messages are displayed, and an input container at the bottom, which contains an input field to type messages and a send button.
 
 To send a message, the user types their message in the input field and clicks the send button. The message is then displayed in the message container, indicating it was sent by the user. The message appears on the right side with a blue background color.
